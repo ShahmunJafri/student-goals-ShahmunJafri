@@ -1,6 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
+Name: Shahmun Jafri
+Period: 3
+School year: 2018 - 2019
 
 
 Directions:
@@ -16,6 +16,8 @@ Directions:
 
 BEGIN WRITING BELOW
 
-Goal 1:
-Goal 2:
-Partner:
+Goal 1: Time Coding at home
+
+Goal 2: Explaining Code
+
+Partner: Bryan Chu 

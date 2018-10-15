@@ -1,6 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
+Name: Shahmun Jafri	
+Period: 3
+School year: 2018 - 2019
 
 
 Directions:
@@ -14,14 +14,19 @@ Directions:
 - Relevant
 - Time-bound
 
-BEGIN WRITING HERE
 
-Goal 1: COPY AND PASTE GOAL
+Goal 1: Explaining Code
 
 Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+- 4: Is able to explain code to the class fluently and the students can understand the information given
+
+
+- 3: Is able to explain, but students are a bit confused
+
+
+- 2: Seems to try to explain, but till struggles to explain
+
+
+- 1: Cannot explain at all 
 
 

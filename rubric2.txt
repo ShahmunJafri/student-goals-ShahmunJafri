@@ -1,6 +1,6 @@
-Name:
-Period:
-School year: 20__ - 20__
+Name: Shahmun Jafri	
+Period: 3
+School year: 2018 - 2019
 
 
 Directions:
@@ -16,12 +16,15 @@ Directions:
 
 BEGIN WRITING HERE
 
-Goal 2: COPY AND PASTE GOAL
+Goal 2: Time Coding at Home
 
-Rubric:
-- 4:
-- 3:
-- 2:
-- 1:
+Rubric: 
+- 4: Spends 4+ hours on a project
+
+- 3: Spends between 3.5 - 4 hours on a project
+
+- 2: Spends 3 - 3.5 hours on a project
+
+- 1: Spends ≤ 3 hours on a project
 
 
